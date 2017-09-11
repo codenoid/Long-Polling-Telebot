@@ -8,6 +8,10 @@
 
 ## Usage
 
+1. do `shards install` in project root
+2. `crystal build src/memebot.cr`
+3. `./memebot`
+
 Try send some command
 
 ## Development
