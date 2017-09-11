@@ -1,22 +1,22 @@
-# memebot
+# Example of Long Polling Connection on Telegram BOT
 
-TODO: Write a description here
+Kukingkang
 
 ## Installation
 
-TODO: Write installation instructions here
+`crystal build src/memebot.cr`
 
 ## Usage
 
-TODO: Write usage instructions here
+Try send some command
 
 ## Development
 
-TODO: Write development instructions here
+More happiness
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/memebot/fork )
+1. Fork it ( https://github.com/codenoid/memebot/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name])  - creator, maintainer
+- [Rubi Jihantoro](https://github.com/codenoid)  - creator, maintainer
