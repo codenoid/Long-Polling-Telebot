@@ -1,6 +1,6 @@
 # Example of Long Polling Connection on Telegram BOT
 
-Kukingkang
+![Kak seto, kakak kita semua](https://raw.githubusercontent.com/codenoid/Long-Polling-Telebot/master/kakseto.jpg)
 
 ## Installation
 
